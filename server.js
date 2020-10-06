@@ -5,7 +5,7 @@ var fs = require("fs");
 var app = express();
 
 // Set our port to 8080
-var PORT = 8080;
+var PORT = 8000;
 
 // Create our server
 var server = http.createServer(handleRequest);
